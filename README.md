@@ -1,4 +1,4 @@
-# Number Theory: Addition
+# Finite State Machines
 
 By Joshua Richmond and Dylan Duljkovic
 
